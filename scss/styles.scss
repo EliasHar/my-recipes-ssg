@@ -1,0 +1,22 @@
+@import 'layout';
+
+body {
+    background-color: white;
+}
+.mybutton {
+    background: blue;
+    font-size: 1cem;
+}
+.card {
+    background-color: beige;
+    border-radius: .4em;
+    padding: 1em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.stretch {
+    display: grid;
+    justify-content: stretch;
+}
